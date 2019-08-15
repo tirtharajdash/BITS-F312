@@ -1,0 +1,42 @@
+=============
+REGULAR LABS:
+=============
+
+0. Numpy and Pandas and other relevant Python libraries; What is dataset?; How to load a dataset? etc.
+
+1. Matrix Manipulation using Numpy
+
+2. Multilayer Perceptron (MLP) for (1) 1-D feature vectors, (2) 2-D features
+	-- For (1) use MNIST. Flatten 28x28 to 1D.
+	-- For (2) use MNIST as it is.
+	-- Show them the difference in scores and other performances
+
+3. Convolution Operation (using Numpy)
+
+4. Convolutional Neural Networks (CNN)
+	-- Use MNIST
+	-- Use CIFAR-10
+
+5. Recurrent Neural Networks (RNN) -- simple RNNs
+	-- Use sentiment classification (Twitter data)
+	-- Spam e-mail classification
+
+6. LSTM based RNNs
+	-- Performance on time-series data (music generation, may be)
+
+7. Auto-encoders (Variational AE)
+	-- Show the representations learned for MNIST/CIFAR-10
+	-- Word2Vec model demonstration
+
+8. Deep Belief Network (DBN)
+	-- Demonstration of Energy based models (EBM)
+
+9. Generative Adversarial Networks (GAN)
+	-- Generating new digits using MNIST (mostly, wont work in 1 lab; must do)
+
+
+================
+SERIOUS PROJECT:
+================
+
+Mostly on GANs, or combination of (4) and (5): Will be decided
